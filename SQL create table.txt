@@ -1,0 +1,1 @@
+create table studentsuverydata ( firstname varchar2(50), lastname varchar2(50), streetaddress varchar2(100), zipcode varchar2(5), city varchar2(30), state varchar2(30), telnum varchar2(20), email varchar2(50), surveydate varchar2(50), likings varchar2(50), interest varchar2(20), recomend varchar2(20));
